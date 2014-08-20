@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">回电终端</string>
+    <string name="mtarget_running">监听运行中</string>
+    <string name="service_opened">电话监听已开启！</string>
+    <string name="service_closed">电话监听已关闭！</string>
+    <string name="listen_number">监听号码</string>
+    <string name="callback_interval">回电延迟</string>
+    <string name="help">帮助：\n当有来电时，应用会以来电号码回电。\n注意：\n此版本不会记录任何日志。</string>
+</resources>

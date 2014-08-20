@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTarget</string>
+    <string name="mtarget_running">MTarget Running</string>
+    <string name="service_opened">phone monitor opened!</string>
+    <string name="service_closed">phone monitor closed!</string>
+    <string name="listen_number">Listen Number</string>
+    <string name="callback_interval">Callback Interval</string>
+    <string name="help">Help:\nWhile some phone call arrived, this app will call back with the number that it received.\nNotice:\nIt won\'t log anything at this version.</string>
+</resources>
