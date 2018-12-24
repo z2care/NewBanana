@@ -12,3 +12,4 @@ And it should be configurable, robust and extensiable.
 2. Runin test
 3. Store result and communicate with server
 4. Run flow with test stations by bar code
+5. Easy configure the test items
