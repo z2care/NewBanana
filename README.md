@@ -13,3 +13,9 @@ And it should be configurable, robust and extensiable.
 3. Store result and communicate with server
 4. Run flow with test stations by bar code
 5. Easy configure the test items
+
+## How to use it
+1. This project face to android platform
+2. You need make sure that you know the progress of your product line
+3. You can build it with fitable branch for your api level, commonly there is less error
+4. If you want more support, please contact me
